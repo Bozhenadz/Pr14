@@ -5,7 +5,7 @@ body {
   height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #000; /* Black background */
+  background-color: #0000005a;
 }
 
 #game-container {
@@ -21,17 +21,17 @@ body {
 .wall {
   width: 20px;
   height: 20px;
-  background-color: #FFF; /* White walls */
+  background-color: #FFF; 
 }
 
 .player {
   width: 20px;
   height: 20px;
-  background-color: #FF0; /* Yellow player */
+  background-color: rgb(0, 166, 255); 
 }
 
 .empty {
   width: 20px;
   height: 20px;
-  background-color: #000; /* Black empty space */
+  background-color: #000; 
 }
